@@ -1,4 +1,58 @@
 # Hackathon-AI4Care Challenge: Personalized Health Insurance Cost Prediction
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange.svg)
+![Machine Learning](https://img.shields.io/badge/Type-Regression-success.svg)
+![RMSE](https://img.shields.io/badge/Best%20RMSE-4264.12-informational.svg)
+![Rank](https://img.shields.io/badge/Leaderboard-Rank%205-brightgreen.svg)
+![Hackathon](https://img.shields.io/badge/Hackathon-AI4Care-red.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+
+### Hackathon Overview
+**Hackathon Name:** Insurance Amount Prediction (AI4Care Challenge)    
+**Organizer / Platform:** Great Learning (SecureLife Insurance Brokers)  
+**Duration:** 24-hours  
+**Team Size:** Individual (Solo Participation)  
+
+This hackathon focused on building a **machine learning model to predict annual medical insurance costs** using customer demographic, health, and lifestyle data. The evaluation was based on minimizing **RMSE** on a hidden test dataset.
+
+---
+
+### Leaderboard Performance
+
+- **Team Name:** BitDecoder  
+- **Final Rank:** **🏅 5th Place**  
+- **Best RMSE Achieved:** **4264.12**  
+- **Submission Type:** Regression (Insurance Cost Prediction)
+
+---
+
+### Top Leaderboard Snapshot
+
+| Rank | Team Name                | Least RMSE |
+|-----:|--------------------------|-----------:|
+| 1    | SKM     | 4195.48    | 11          |
+| 2    | CB   | 4196.70    | 15          |
+| 3    | Precision               | 4221.77    |
+| 4    | CodeMonkey              | 4223.94    | 
+| **5**| **BitDecoder (Me)**     | **4264.12**|
+
+
+---
+
+### Learnings from the Hackathon
+
+- Smoking status and BMI dominate healthcare cost prediction
+- Tree-based ensemble models outperform linear models significantly
+- Cross-validation stability is as important as leaderboard score
+- Feature interactions matter more than raw feature scaling
+
+---
+
+### Impact
+
+This result validates the effectiveness of a **data-driven underwriting approach** and demonstrates how machine learning can replace traditional actuarial heuristics with **personalized, scalable insurance pricing models**.
+
+---
 
 ## Company Overview
 **SecureLife Insurance Brokers** is a digital-first insurance brokerage firm specializing in **personalized health insurance solutions**. The company aims to move beyond traditional actuarial pricing by leveraging data-driven intelligence to deliver accurate, customer-centric insurance recommendations.
