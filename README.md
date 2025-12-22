@@ -9,17 +9,17 @@ Personalized_Health_Insurance_Cost_Prediction/
 │   └── notebook.txt                                                    # Notebook-related notes
 |
 ├── data/
-│   ├── Train_data__Insurance.csv                                   # Training dataset
-│   ├── Test_data_Insurance.csv                                     # Test dataset
-│   └── data.txt                                                    # Data-related notes
+│   ├── Train_data__Insurance.csv                                       # Training dataset
+│   ├── Test_data_Insurance.csv                                         # Test dataset
+│   └── data.txt                                                        # Data-related notes
 │
 ├── outputs/
-│   ├── securelife_cost_predictions_v1.csv                          # Final model predictions
-│   └── prediction.txt                                              # Prediction summary notes
+│   ├── securelife_cost_predictions_v1.csv                              # Final model predictions
+│   └── prediction.txt                                                  # Prediction summary notes
 │
-├── README.md                                                       # Project documentation
+├── README.md                                                           # Project documentation
 │
-└── requirements.txt                                                # Python dependencies
+└── requirements.txt                                                    # Python dependencies
 
 
 ```
