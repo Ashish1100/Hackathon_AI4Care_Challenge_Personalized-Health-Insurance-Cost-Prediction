@@ -203,7 +203,7 @@ Personalized_Health_Insurance_Cost_Prediction/
 ---
 
 ## Contributing
-Feel free to **fork**, **adapt**, and **extend** this project for further analysis.
+Feel free to **fork**, **adapt**, and **extend** this project for further analysis and modeling.
 
 ---
 
