@@ -108,7 +108,7 @@ Predict the **annual medical expenses (USD)** for each customer using an AI/ML r
 
 The dataset is divided into **Train** and **Test** sets.
 
-### Train Dataset (`train.csv`)
+### Train Dataset
 Contains labeled medical costs and is used for model training and validation.
 
 **Columns:**
@@ -122,7 +122,7 @@ Contains labeled medical costs and is used for model training and validation.
 
 ---
 
-### Test Dataset (`test.csv`)
+### Test Dataset
 Contains **unlabeled data** used for final prediction.
 
 **Columns:**
