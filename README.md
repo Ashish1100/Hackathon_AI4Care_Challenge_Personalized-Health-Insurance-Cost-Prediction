@@ -13,7 +13,7 @@ Personalized_Health_Insurance_Cost_Prediction/
 │   ├── Test_data_Insurance.csv                                         # Test dataset
 │   └── data.txt                                                        # Data-related notes
 │
-├── outputs/
+├── output/
 │   ├── securelife_cost_predictions_v1.csv                              # Final model predictions
 │   └── prediction.txt                                                  # Prediction summary notes
 │
