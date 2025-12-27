@@ -256,10 +256,5 @@ Personalized_Health_Insurance_Cost_Prediction/
 
 ---
 
-## Contributing
-Feel free to **fork**, **adapt**, and **extend** this project for further analysis and modeling.
-
----
-
 ## License
 > This project is a personal academic initiative developed for **educational purposes and non-commercial** use only.
