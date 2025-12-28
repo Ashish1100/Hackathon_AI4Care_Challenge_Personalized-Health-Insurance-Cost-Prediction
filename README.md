@@ -258,3 +258,15 @@ Personalized_Health_Insurance_Cost_Prediction/
 
 ## License
 > This project is a personal academic initiative developed for **educational purposes and non-commercial** use only.
+
+<div align="center">
+
+---
+
+### **Star ⭐ this repo if you found this project helpful!**
+
+---
+
+*Made with ❤️ by Ashish Saha*
+
+</div>
