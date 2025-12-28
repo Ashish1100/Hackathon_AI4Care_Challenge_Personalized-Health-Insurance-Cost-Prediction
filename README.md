@@ -246,13 +246,28 @@ Personalized_Health_Insurance_Cost_Prediction/
 ```
 
 ---
-## Author
+## **Author**
 
-- **Name**: *Ashish Saha*
-- **Role**: Data Science & Artificial Intelligence
-- **Email**: [ashishsaha.software@gmail.com](mailto:ashishsaha.software@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ashishsaha21](https://www.linkedin.com/in/ashishsaha21)
-- **GitHub**: [github.com/Ashish1100](https://github.com/Ashish1100)
+<div align="center">
+
+### **Ashish Saha**
+**Machine Learning Research** | **AI Engineering** | **Data Science**
+
+*Specializing in building intelligent ML systems and transforming data into actionable insights.*
+
+**Tech Stack:** Python • TensorFlow/Keras • PyTorch • XGBoost • Scikit-learn 
+
+<a href="https://github.com/Ashish1100" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ashishsaha21/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:ashishsaha.software@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
 
 ---
 
