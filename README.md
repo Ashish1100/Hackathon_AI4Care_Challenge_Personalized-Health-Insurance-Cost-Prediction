@@ -5,7 +5,8 @@
 ![RMSE](https://img.shields.io/badge/Best%20RMSE-4264.12-informational.svg)
 ![Rank](https://img.shields.io/badge/Leaderboard-Rank%205-brightgreen.svg)
 ![Hackathon](https://img.shields.io/badge/Hackathon-AI4Care-red.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+
+---
 
 ### Hackathon Overview
 **Hackathon Name:** Insurance Amount Prediction (AI4Care Challenge)    
