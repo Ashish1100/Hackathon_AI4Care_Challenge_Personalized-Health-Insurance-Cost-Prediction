@@ -252,7 +252,7 @@ Personalized_Health_Insurance_Cost_Prediction/
 <div align="center">
 
 ### **Ashish Saha**
-**Machine Learning Research** | **AI Engineering** | **Data Science**
+**AI Engineering** | **ML Research** | **Data Science**
 
 *Specializing in building intelligent ML systems and transforming data into actionable insights.*
 
